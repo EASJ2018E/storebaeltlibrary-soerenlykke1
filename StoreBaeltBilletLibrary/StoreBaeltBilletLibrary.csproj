@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Dll\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BilletLibrary">
+      <HintPath>Dll\BilletLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,12 @@
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.deps.json
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csprojAssemblyReference.cache
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.dll
+C:\source\Program\storebaeltlibrary-soerenlykke1\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.1\StoreBaeltBilletLibrary.pdb
